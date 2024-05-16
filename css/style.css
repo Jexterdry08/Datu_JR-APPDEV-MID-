@@ -126,7 +126,7 @@ html {
 
 body {
   line-height: inherit;
-  background-image: url('../images/bg-header-desktop.png');
+  background-image: url('../images/bg-header-desktop.min.png');
   background-repeat: no-repeat;
   background-size: contain
 }
@@ -534,7 +534,7 @@ h5 {
 
 @media (max-width:576px) {
   body {
-    background-image: url('../images/bg-header-mobile.png')
+    background-image: url('../images/bg-header-mobile.min.png')
   }
 }
 
